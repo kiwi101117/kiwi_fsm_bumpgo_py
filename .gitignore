@@ -1,0 +1,9 @@
+# ROS 2 build artifacts and logs
+build/
+install/
+log/
+
+# Python-specific
+__pycache__/
+*.pyc
+
